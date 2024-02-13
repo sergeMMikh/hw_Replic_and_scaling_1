@@ -42,6 +42,6 @@
 
 <img src="images/Task_2_5.png" alt="Task_2_5.png" width="500" height="auto">
 
-<img src="images/Task_2_6.png" alt="Task_2_6.png" width="500" height="auto">
+<img src="images/Task_2_6.png" alt="Task_2_6.png" width="400" height="auto">
 
 ---
