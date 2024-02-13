@@ -38,4 +38,10 @@
 
 <img src="images/Task_2_4.png" alt="Task_2_4.png" width="200" height="auto">
 
+При этом изменился номер строчки в бинарном файле.
+
+<img src="images/Task_2_5.png" alt="Task_2_5.png" width="500" height="auto">
+
+<img src="images/Task_2_6.png" alt="Task_2_6.png" width="500" height="auto">
+
 ---
