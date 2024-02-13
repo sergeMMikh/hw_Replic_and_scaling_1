@@ -30,4 +30,12 @@
 
 <img src="images/Task_2_2.png" alt="Task_2_2.png" width="500" height="auto">
 
+Создал на мастере базу *my_hw_base*.
+
+<img src="images/Task_2_3.png" alt="Task_2_3.png" width="250" height="auto">
+
+*slave* прочитал данные из файла mysql-bin.000003 и воспроизвёл изменение у себя.
+
+<img src="images/Task_2_4.png" alt="Task_2_4.png" width="200" height="auto">
+
 ---
